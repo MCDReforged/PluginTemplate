@@ -133,3 +133,6 @@ dmypy.json
 
 # MCDR
 *.mcdr
+
+# Mac OS
+.DS_Store
