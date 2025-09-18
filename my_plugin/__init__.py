@@ -1,4 +1,4 @@
-from mcdreforged.api.all import *
+from mcdreforged import PluginServerInterface
 
 from my_plugin import my_lib
 

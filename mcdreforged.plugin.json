@@ -8,6 +8,7 @@
     ],
     "link": "https://github.com/MCDReforged/PluginTemplate",
     "dependencies": {
+        "mcdreforged": ">=2.15.0"
     },
 
     "resources": [
