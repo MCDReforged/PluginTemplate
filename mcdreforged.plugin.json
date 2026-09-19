@@ -1,14 +1,19 @@
 {
+    "schema_version": 1,
     "id": "my_plugin",
     "version": "1.0.0",
     "name": "My Plugin",
     "description": "This description is a description to your plugin",
-    "author": [
-        "You"
+    "authors": [
+        {
+            "name": "You"
+        }
     ],
-    "link": "https://github.com/MCDReforged/PluginTemplate",
+    "links": {
+        "homepage": "https://github.com/MCDReforged/PluginTemplate"
+    },
     "dependencies": {
-        "mcdreforged": ">=2.15.0"
+        "mcdreforged": ">=2.16.0"
     },
 
     "resources": [

@@ -1,7 +1,7 @@
 MCDReforged Plugin Template
 -----
 
-A template for MCDReforged (>=2.x) plugin
+A template for MCDReforged (>=2.16.0) plugin
 
 Try `python -m mcdreforged pack` to generate the packed plugin!
 
